@@ -3,7 +3,7 @@ TelCorp DC - Política de privacidade | PMMG
 **Política de Privacidade do Aplicativo Contatos da Defesa Civil**
 ----------------------------------------------------------------
 
-Documento criado em: 10/05/2022
+Documento criado em: 20/07/2022
 
 Esta é a Política de Privacidade para o aplicativo Contatos da Defesa Civil da Polícia Militar de Minas Gerais. Esta política somente se aplica ao aplicativo Contatos da Defesa Civil e não se aplica a qualquer outro sistema da PMMG.
 
