@@ -56,7 +56,7 @@ A divulgação das informações para terceiros não autorizados a acessar o apl
 
 A PMMG reserva-se ao direito de alterar este termo de privacidade sem aviso prévio. Deste modo, recomendamos que consulte a nossa Política de Privacidade com regularidade de forma a estar sempre atualizado. É responsabilidade do usuário verificar esta política para garantir a sua aceitação dos novos termos.
 
-A última atualização desta política ocorreu no dia 10 de maio de 2022. Caso esta política tenha algum conflito com alguma norma legal nacional ou institucional, a regra inscrita na norma terá prevalência sobre o que estabelece essa política.
+A última atualização desta política ocorreu no dia 20 de julho de 2022. Caso esta política tenha algum conflito com alguma norma legal nacional ou institucional, a regra inscrita na norma terá prevalência sobre o que estabelece essa política.
 
 **DEMAIS DÚVIDAS**
 
