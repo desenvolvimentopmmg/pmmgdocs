@@ -5,7 +5,7 @@ QAPP Política de privacidade | PMMG
 
 Documento criado em: 07/06/2017
 
-Última atualização: 18/04/2022
+Última atualização: 10/02/2023
 
 Esta é a Política de Privacidade para o aplicativo QApp da Polícia Militar de Minas Gerais. Esta política somente se aplica ao aplicativo QApp nas suas versões Android e IOS e não se aplica a qualquer outro sistema da PMMG.
 
@@ -44,6 +44,8 @@ Esta Política de Privacidade não se aplica às práticas de terceiros que não
 
 2.  saber a posição em que uma fotografia foi tirada para, depois, poder exibir os pontos em que elas foram tiradas para os usuários que venham pesquisá-las.
 
+3.  realizar o mapeamento de estradas rurais para a equipe da Patrulha Rural - PMMG. Neste caso, o aplicativo QApp obterá as coordenadas de localização (GPS) rodando em background.
+
 As informações de posição não serão acessadas fora desses momentos e só serão gravadas no caso da opção 2.
 
 **Câmera do dispositivo:** a câmera do dispositivo será utilizada apenas por ação executada pelo próprio usuário com o fim de facilitar o processo de fotografia ou filmagem.
@@ -66,7 +68,7 @@ A divulgação das informações para terceiros não autorizados a acessar o apl
 
 A PMMG reserva-se ao direito de alterar este termo de privacidade sem aviso prévio. Deste modo, recomendamos que consulte a nossa Política de Privacidade com regularidade de forma a estar sempre atualizado. É responsabilidade do usuário verificar esta política para garantir a sua aceitação dos novos termos.
 
-A última atualização desta política ocorreu no dia 18 de abril de 2022. Caso esta política tenha algum conflito com alguma norma legal nacional ou institucional, a regra inscrita na norma terá prevalência sobre o que estabelece essa política.
+A última atualização desta política ocorreu no dia 10 de fevereiro de 2023. Caso esta política tenha algum conflito com alguma norma legal nacional ou institucional, a regra inscrita na norma terá prevalência sobre o que estabelece essa política.
 
 **DEMAIS DÚVIDAS**
 
