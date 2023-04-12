@@ -1,7 +1,7 @@
 
 # QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
 
-Todas mudanças notáveis deste projeto serão documentadas neste documento.
+Todas mudanças notáveis deste projeto serão documentadas abaixo.
 
 ## [Versão 1.2.20] - 17/02/2023
  
