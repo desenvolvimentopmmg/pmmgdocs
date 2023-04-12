@@ -30,7 +30,7 @@ Todas as mudanças notáveis deste projeto serão documentadas abaixo.
 
 ### Segurança
 
-- Detecção, log e bloqueio de dispositivos classificados como Emuladores ou Roteados.
+- Detecção, registro e bloqueio de dispositivos classificados como Emuladores ou "Rooteados".
 
 Pretende-se com a adição desse recurso identificar usuários que utilizam o app em dispositivos suspeitos ou que não ofereçam segurança para os dados compartilhados entre os serviços da PMMG e o dispositivo do usuário. Essa atualização não apresenta nenhuma modificação aparente.
  
@@ -44,10 +44,7 @@ Pretende-se com a adição desse recurso identificar usuários que utilizam o ap
 
 - Atualização das bibliotecas de recebimento de notificação no Android
 
-Foram detectados alguns problemas em alguns aparelhos Android correspondentes a issue descrita nesses links:        
-
-[LINK 1](https://github.com/firebase/flutterfire/issues/9446)
-[LINK 2](https://github.com/firebase/flutterfire/pull/9494)
+Foram detectados alguns problemas em alguns aparelhos Android correspondentes a issue descrita nesses links: [LINK 1](https://github.com/firebase/flutterfire/issues/9446), [LINK 2](https://github.com/firebase/flutterfire/pull/9494)
 
 Com a atualização das bibliotecas e realização de alguns ajustes no código fonte, esse problema, até onde foi testado, fica resolvido.
  
