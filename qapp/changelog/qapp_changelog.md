@@ -1,7 +1,13 @@
 
-# Change Log - QAPP
+# QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
 
 Todas mudanças notáveis deste projeto serão documentadas neste documento.
+
+## [Versão 1.2.20] - 17/02/2023
+ 
+### Recursos adicionados
+   
+- Adição do card "Carnaval"
 
 ## [Versão 1.2.7] - 10/01/2023
  
@@ -22,7 +28,7 @@ Todas mudanças notáveis deste projeto serão documentadas neste documento.
    
 ### Recursoso alterados
 
-1 - Card "Brasil M.A.I.S." para redirecionamento ao [link](https://plataforma-pf.sccon.com.br/#/), para usuários das unidades CPMAMB, BPMAMB, CTS e DTS.
+- Adição do card "Brasil M.A.I.S." para redirecionamento ao [link](https://plataforma-pf.sccon.com.br/#/), para usuários das unidades CPMAMB, BPMAMB, CTS e DTS.
 
 ## [Versão 1.2.0] - 01/12/2022
 
