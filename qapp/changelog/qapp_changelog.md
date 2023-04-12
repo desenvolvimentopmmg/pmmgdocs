@@ -1,7 +1,7 @@
 
 # QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
 
-Todas mudanças notáveis deste projeto serão documentadas abaixo.
+Todas as mudanças notáveis deste projeto serão documentadas abaixo.
 
 ## [Versão 1.2.20] - 17/02/2023
  
@@ -17,16 +17,12 @@ Todas mudanças notáveis deste projeto serão documentadas abaixo.
    
 ### Recursoso alterados
 
-- Patrulha Rural
-
 - Patrulha Rural: Ajustes, melhoramentos e alterações requisitadas pelos responsáveis pela Patrulha Rural
 - Patrulha Rural: Otimizações no mecanismo de sincronização dos dados
 
 ## [Versão 1.2.4] - 23/12/2022
  
 ### Recursos adicionados
-   
-### Recursoso alterados
 
 - Adição do card "Brasil M.A.I.S." para redirecionamento ao [link](https://plataforma-pf.sccon.com.br/#/), para usuários das unidades CPMAMB, BPMAMB, CTS e DTS.
 
