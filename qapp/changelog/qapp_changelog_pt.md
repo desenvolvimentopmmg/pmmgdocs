@@ -1,5 +1,5 @@
 
-### QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
+### QAPP - REGISTRO DE ALTERAÇÕES
 
 Todas as mudanças notáveis deste projeto serão documentadas abaixo.
 
