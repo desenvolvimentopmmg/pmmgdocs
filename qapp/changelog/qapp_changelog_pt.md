@@ -70,5 +70,5 @@ Mecanismo de atualização do token de autenticação do aplicativo quando este 
 
 - Aprimoramento de segurança: Criptografia de dados sensíveis armazenados no app
 
-Adicionamos a criptografia de dados sensíveis armazenados na aplicação como o Token de autenticação e o Refresh Token. Anteriormente estes dados poderiam ser acessados indevidamente caso o dispositivo fosse "roteado" pelo usuário. Agora, mesmo que o usuário realize o root do aparelho, os dados obtidos estarão criptografados.
+Adicionamos a criptografia de dados sensíveis armazenados na aplicação como o Token de autenticação e o Refresh Token. Anteriormente estes dados poderiam ser acessados indevidamente caso o dispositivo fosse "rooteado" pelo usuário. Agora, mesmo que o usuário realize o root do aparelho, os dados obtidos estarão criptografados.
  
