@@ -1,7 +1,7 @@
 
-### QAPP - REGISTRO DE ALTERAÇÕES
+### REGISTRO DE ALTERAÇÕES
 
-Todas as mudanças notáveis deste projeto serão documentadas abaixo.
+Todas as mudanças notáveis do projeto QAPP serão documentadas abaixo.
 
 #### [Versão 1.2.20] - 17/02/2023
  
