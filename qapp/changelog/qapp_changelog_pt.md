@@ -1,11 +1,11 @@
 
-## QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
+### QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
 
 Todas as mudanças notáveis deste projeto serão documentadas abaixo.
 
-### [Versão 1.2.20] - 17/02/2023
+#### [Versão 1.2.20] - 17/02/2023
  
-#### Recursos adicionados
+##### Recursos adicionados
    
 - Adição do card "Carnaval"
 
