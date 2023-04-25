@@ -1,46 +1,46 @@
 
-# QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
+## QAPP - REGISTRO DE ALTERAÇÕES (Change Log)
 
 Todas as mudanças notáveis deste projeto serão documentadas abaixo.
 
-## [Versão 1.2.20] - 17/02/2023
+### [Versão 1.2.20] - 17/02/2023
  
-### Recursos adicionados
+#### Recursos adicionados
    
 - Adição do card "Carnaval"
 
-## [Versão 1.2.7] - 10/01/2023
+### [Versão 1.2.7] - 10/01/2023
  
-### Recursos adicionados
+#### Recursos adicionados
 
 - Patrulha Rural: Adição do cadastro de Animas nos Endereços Rurais
    
-### Recursoso alterados
+#### Recursoso alterados
 
 - Patrulha Rural: Ajustes, melhoramentos e alterações requisitadas pelos responsáveis pela Patrulha Rural
 - Patrulha Rural: Otimizações no mecanismo de sincronização dos dados
 
-## [Versão 1.2.4] - 23/12/2022
+### [Versão 1.2.4] - 23/12/2022
  
-### Recursos adicionados
+#### Recursos adicionados
 
 - Adição do card "Brasil M.A.I.S." para redirecionamento ao [link](https://plataforma-pf.sccon.com.br/#/), para usuários das unidades CPMAMB, BPMAMB, CTS e DTS.
 
-## [Versão 1.2.0] - 01/12/2022
+### [Versão 1.2.0] - 01/12/2022
 
-### Segurança
+#### Segurança
 
 - Detecção, registro e bloqueio de dispositivos classificados como Emuladores ou "Rooteados".
 
 Pretende-se com a adição desse recurso identificar usuários que utilizam o app em dispositivos suspeitos ou que não ofereçam segurança para os dados compartilhados entre os serviços da PMMG e o dispositivo do usuário. Essa atualização não apresenta nenhuma modificação aparente.
  
-## [Versão 1.1.3] - 21/11/2022
+### [Versão 1.1.3] - 21/11/2022
  
-### Recursos adicionados
+#### Recursos adicionados
 
 - Botão de redirecionamento para o Helios Web no menu superior da tela do Helios no aplicativo
    
-### Correções
+#### Correções
 
 - Atualização das bibliotecas de recebimento de notificação no Android
 
@@ -48,9 +48,9 @@ Foram detectados alguns problemas em alguns aparelhos Android correspondentes a 
 
 Com a atualização das bibliotecas e realização de alguns ajustes no código fonte, esse problema, até onde foi testado, fica resolvido.
  
-## [Versão 1.1.0] - 27/10/2022
+### [Versão 1.1.0] - 27/10/2022
  
-### Recursos adicionados
+#### Recursos adicionados
 
 - Mecanismo de verificação de nova versão do aplicativo (Android)
 
@@ -58,7 +58,7 @@ Caso a verificação encontre uma nova versão do app disponível, ele informar�
 
 - Novo card de OS (Atendimento) para militares do CTT
 
-### Segurança
+#### Segurança
 
 - Aprimoramento de segurança: Troca da chave de aplicação para o login
 
