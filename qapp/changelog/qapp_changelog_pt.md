@@ -3,6 +3,15 @@
 
 Todas as mudanças notáveis do projeto QAPP serão documentadas abaixo.
 
+#### [Versão 1.2.40] - 25/05/2023
+ 
+##### Recursos adicionados
+   
+- Adição do link do Changelog (Registro de alterações)
+- Acesso restrito a veteranos: Agora os veteranos também podem acessar o QAPP, porém o acesso é limitado.
+- Patrulha Rural: Lançamento da 4ª fase (Endereço Rural, Visita, Rede de Proteção e Estrada Rural)
+- Ajustes e otimizações gerais no app
+
 #### [Versão 1.2.20] - 17/02/2023
  
 ##### Recursos adicionados
