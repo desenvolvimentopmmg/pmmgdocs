@@ -3,7 +3,7 @@
 
 Todas as mudanças notáveis do projeto QAPP serão documentadas abaixo.
 
-#### [Versão 1.2.40] - 25/05/2023
+#### [Versão 1.3.0] - 25/05/2023
  
 ##### Recursos adicionados
    
