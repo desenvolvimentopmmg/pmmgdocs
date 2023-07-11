@@ -1,4 +1,4 @@
-QAPP Política de privacidade | PMMG
+QApp Política de privacidade | PMMG
 
 **Política de Privacidade do Aplicativo QApp**
 ----------------------------------------------
