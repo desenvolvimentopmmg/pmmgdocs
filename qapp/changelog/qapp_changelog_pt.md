@@ -1,14 +1,24 @@
 
 ### REGISTRO DE ALTERAÇÕES
 
-Todas as mudanças notáveis do projeto QAPP serão documentadas abaixo.
+Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
+
+#### [Versão 1.4.0] - 06/07/2023
+
+##### Recursos adicionados
+
+- Prova de vida: Alertas quando o usuário precisa realizar o recadastramento na PMMG para a Prova de Vida.
+- 2FA: Recebimento do código 2FA por notificação.
+- Novas notificações: Aperfeiçoamento do mecanismo de notificações do aplicativo (Hélios, Prova de Vida e 2FA).
+- Biometria: Utilização da biometria para liberação do código 2FA.
+- Ajustes e otimizações gerais no app
 
 #### [Versão 1.3.0] - 25/05/2023
  
 ##### Recursos adicionados
    
 - Adição do link do Changelog (Registro de alterações)
-- Acesso restrito a veteranos: Agora os veteranos também podem acessar o QAPP, porém o acesso é limitado.
+- Acesso restrito a veteranos: Agora os veteranos também podem acessar o QApp, porém o acesso é limitado.
 - Patrulha Rural: Lançamento da 4ª fase (Endereço Rural, Visita, Rede de Proteção e Estrada Rural)
 - Ajustes e otimizações gerais no app
 
