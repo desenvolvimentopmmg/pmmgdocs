@@ -3,6 +3,15 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.4.20] - 25/07/2023
+
+##### Recursos adicionados
+
+- Novo Webview para acesso ao PA (Mensagens)
+- Controle de notificações: Agora o usuário pode selecionar quais notificações ele deseja receber (Menu lateral > Configurações)
+- Patrulha Rural: Adição de mecanismo de detecção de troca de unidade do militar para que a sincronização seja feita com segurança e para que os dados não sincronizados não sejam perdidos
+- Ajustes e otimizações gerais no app
+
 #### [Versão 1.4.0] - 06/07/2023
 
 ##### Recursos adicionados
