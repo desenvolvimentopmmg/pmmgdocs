@@ -3,6 +3,15 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.5.0] - 25/10/2023
+
+##### Recursos adicionados
+
+- Nova pesquisa de Veículos, entregando resultados do SDAK + Pesquisa por leitura de placa (OCR)
+- Patrulha Rural: Ajustes de layout
+- Ajustes na exibição do card de Gestão
+- Ajustes e otimizações gerais no app
+
 #### [Versão 1.4.20] - 25/07/2023
 
 ##### Recursos adicionados
