@@ -3,6 +3,13 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.6.0] - 18/12/2023
+
+##### Recursos adicionados
+
+- Adequações de layout do aplicativo para o novo tema da PMMG
+- Ajustes e otimizações gerais no app
+
 #### [Versão 1.5.0] - 25/10/2023
 
 ##### Recursos adicionados
