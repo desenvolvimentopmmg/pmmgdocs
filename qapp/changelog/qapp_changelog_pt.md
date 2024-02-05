@@ -3,6 +3,14 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.6.5] - 05/02/2024
+
+##### Recursos adicionados
+
+- Bloqueio/Desbloqueio por biometria do aparelho. Acesse [Menu lateral > Configurações > Bloqueio/Desbloqueio por biometria do aparelho] para utilizar este recurso
+- Adição do Card de Carnaval com as orientações as tropas
+- Ajustes e otimizações gerais no app
+
 #### [Versão 1.6.0] - 18/12/2023
 
 ##### Recursos adicionados
@@ -59,7 +67,7 @@ Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
 - Patrulha Rural: Adição do cadastro de Animais nos Endereços Rurais
    
-##### Recursoso alterados
+##### Recursos alterados
 
 - Patrulha Rural: Ajustes, melhoramentos e alterações requisitadas pelos responsáveis pela Patrulha Rural
 - Patrulha Rural: Otimizações no mecanismo de sincronização dos dados
