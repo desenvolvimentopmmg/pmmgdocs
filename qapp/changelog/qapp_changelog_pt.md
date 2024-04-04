@@ -7,7 +7,7 @@ Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
 ##### Recursos adicionados
 
-- Novo Assinador Gov.Br/PMMG (liberação em breve)
+- Novo Assinador Gov.Br/PMMG
 - Ajustes e otimizações gerais no app
 
 #### [Versão 1.6.5] - 05/02/2024
