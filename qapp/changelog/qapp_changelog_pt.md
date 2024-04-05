@@ -3,13 +3,6 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
-#### [Versão 1.7.0] - 03/04/2024
-
-##### Recursos adicionados
-
-- Novo Assinador Gov.Br/PMMG
-- Ajustes e otimizações gerais no app
-
 #### [Versão 1.6.5] - 05/02/2024
 
 ##### Recursos adicionados
