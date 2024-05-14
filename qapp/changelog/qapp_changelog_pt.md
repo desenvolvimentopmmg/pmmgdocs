@@ -3,6 +3,15 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.7.18] - 13/05/2024
+
+##### Recursos adicionados
+
+- Grande atualização de vários recursos do app
+- Atualizações importantes de segurança
+- Atualizações necessárias para o novo mecanismo de notificação do app
+- Otimizações e correção de bugs
+
 #### [Versão 1.6.5] - 05/02/2024
 
 ##### Recursos adicionados
