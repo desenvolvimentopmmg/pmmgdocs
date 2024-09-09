@@ -3,6 +3,16 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+
+#### [Versão 1.8.6] - 09/09/2024
+
+##### Recursos adicionados
+
+- Nova pesquisa de Indivíduos (BISP/SIP)
+- Nova pesquisa de Condutores (BISP/SS06)
+- Interfaceamento com o Hélios Web
+- Otimizações e correção de bugs
+
 #### [Versão 1.7.18] - 13/05/2024
 
 ##### Recursos adicionados
