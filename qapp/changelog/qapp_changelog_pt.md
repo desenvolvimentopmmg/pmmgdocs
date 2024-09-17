@@ -3,6 +3,12 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.8.15] - 17/09/2024
+
+##### Recursos adicionados
+
+- Nova pesquisa de Indivíduos (BISP/SIP)
+- Nova pesquisa de Condutores (BISP/SS06)
 
 #### [Versão 1.7.18] - 13/05/2024
 
