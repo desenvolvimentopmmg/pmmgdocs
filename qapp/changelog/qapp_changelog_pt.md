@@ -3,6 +3,12 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 1.9.0] - 21/10/2024
+
+##### Recursos adicionados
+
+- Mais segurança com o login com 2FA
+
 #### [Versão 1.8.15] - 17/09/2024
 
 ##### Recursos adicionados
