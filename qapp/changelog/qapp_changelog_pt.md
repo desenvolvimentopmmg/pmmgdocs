@@ -7,7 +7,7 @@ Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
 ##### Recursos adicionados
 
-- Mais segurança com o login com 2FA
+- Mais segurança com o login com 2FA.
 
 #### [Versão 1.8.15] - 17/09/2024
 
