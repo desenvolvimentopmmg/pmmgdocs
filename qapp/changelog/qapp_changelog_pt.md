@@ -3,7 +3,7 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
-####[Versão 2.0.25] - 26/06/2025
+#### [Versão 2.0.25] - 26/06/2025
 
 QApp 2.0: Tecnologia e inteligência a serviço da segurança pública reforçando o compromisso da PMMG com a inovação e a eficiência operacional.
 
