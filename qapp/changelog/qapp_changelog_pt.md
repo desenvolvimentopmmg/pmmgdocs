@@ -3,6 +3,42 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+####[Versão 2.0.25] - 26/06/2025
+
+QApp 2.0: Tecnologia e inteligência a serviço da segurança pública reforçando o compromisso da PMMG com a inovação e a eficiência operacional.
+
+##### Novos Recursos
+
+- Novo layout
+Novo visual com interface mais limpa, intuitiva e responsiva.
+Os cards estão organizados de acordo com seu tipo: Operacional e Administrativo.
+Nova área de Banners com links de aplicações externas úteis.
+
+- Nova Pesquisa Unificada
+Nova funcionalidade para consultar veículo e pessoa em vários sistemas com apenas um clique.
+A pesquisa unificada está integrada com diversas bases de dados, como CORTEX, SIP, ISP e REDS, além das bases de dados de veículos e condutores de diversos estados.
+
+- Cyber PM
+Permite realizar a autenticação biométrica, solução desenvolvida para auxiliar a identificação de indivíduos em abordagens policiais, através da pesquisa por pessoas com mandado de prisão.
+Basta tirar uma foto do indivíduo, que o QApp faz a verificação em tempo real, através de inteligência artificial.
+
+- Assinador
+Ferramenta para assinatura digital de documentos usando o gov.br diretamente pelo aplicativo.
+
+- Dispositivos Conectados
+A nova funcionalidade permite:
+Visualizar todos os dispositivos com acesso ativo ao aplicativo;
+Remover o acesso de dispositivos desconhecidos ou não autorizados;
+Ao remover um dispositivo, ele será automaticamente deslogado do QApp, garantindo mais segurança para o usuário.
+Essa melhoria reforça o controle e a proteção das informações, oferecendo mais transparência e praticidade no gerenciamento de acessos.
+
+- Contracheque
+O demonstrativo de pagamento também está disponível para consulta na aba Administrativo.
+
+- Prova de vida
+Permite realização da prova de vida de militares veteranos e servidores civis aposentados.
+
+
 #### [Versão 1.9.0] - 21/10/2024
 
 ##### Recursos adicionados
