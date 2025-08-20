@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "permission_set": {
+  "permissions_set": {
 		"fr_test": {
 			"description": null,
 			"users": [
