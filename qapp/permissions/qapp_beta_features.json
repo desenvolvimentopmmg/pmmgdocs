@@ -31,7 +31,7 @@
 		]
 	},
 	{
-		"key": "dev_helios"
+		"key": "dev_helios",
 		"description": null,
 		"users": [
 			"c927147",
@@ -46,7 +46,7 @@
 		]
 	},
 	{
-		"key": "dev"
+		"key": "dev",
 		"description": null,
 		"users": [
 			"c927147",
@@ -54,7 +54,7 @@
 		]
 	},
 	{
-		"key": "dev_and_specials"
+		"key": "dev_and_specials",
 		"description": null,
 		"users": [
 			"c927147",
@@ -63,7 +63,7 @@
 		]
 	},
 	{
-		"key": "dev_qapp"
+		"key": "dev_qapp",
 		"description": null,
 		"users": [
 			"c929629",
@@ -78,7 +78,7 @@
 		]
 	},
 	{
-		"key": "dev_rota_minas"
+		"key": "dev_rota_minas",
 		"description": null,
 		"users": [
 			"c927147",
