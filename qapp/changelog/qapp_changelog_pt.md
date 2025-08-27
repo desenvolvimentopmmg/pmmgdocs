@@ -3,6 +3,28 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.1.4] – 27/08/2025
+O QApp continua melhorando com o foco no compromisso da PMMG com a inovação e eficiência operacional.
+
+#### Novos Recursos:
+
+#### Pesquisa Unificada
+Melhoria na validação de conexão com a internet durante o uso do CARD.
+Mais opções para buscar as detecções do Helios, com opções de visualizar 7, 15 ou 30 dias.
+Nova opção da pesquisa de veículos de arrendatários. Será possível realizar a pesquisa do arrendatário apenas acionando o link na pesquisa.
+Os Cards de Veículos com licenciamento anterior a 2 anos serão exibidos em amarelo e com texto “Último licenciamento "anoExercicio"”.
+
+#### Envolvidos
+Melhoria na validação de conexão com a internet durante o uso do CARD.
+
+#### SIGOp
+Ajustes para transformar o banner “SIGOp” em card, facilitando assim o uso do sistema.
+Os Cards Anúncios de Eventos e Gestão foram retirados e estão disponíveis através do Card SIGOp.
+
+#### Questionário no QApp
+Nova ferramenta que permite enviar questionários para os usuários no QApp.
+
+
 #### [Versão 2.0.25] - 26/06/2025
 
 QApp 2.0: Tecnologia e inteligência a serviço da segurança pública reforçando o compromisso da PMMG com a inovação e a eficiência operacional.
