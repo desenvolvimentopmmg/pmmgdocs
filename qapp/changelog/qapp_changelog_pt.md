@@ -3,7 +3,7 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
-#### [Versão 2.2.1] - 08/10/2025 
+#### [Versão 2.2.1] - 13/10/2025 
 O QApp continua evoluindo e trazendo novidades para melhorar a eficiência operacional da PMMG.
 
 #### Eventos de Destaque 
