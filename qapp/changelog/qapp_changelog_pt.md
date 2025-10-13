@@ -3,6 +3,20 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.2.1] - 08/10/2025 
+O QApp continua evoluindo e trazendo novidades para melhorar a eficiência operacional da PMMG.
+
+#### Eventos de Destaque 
+• Criação do Card com a lista dos eventos destaque recebidos pelo usuário 
+
+• Opção para pesquisar e limpar a lista dos eventos destaque 
+
+• Serviço para receber notificações dos novos eventos destaque. 
+
+#### Informações via QAPP 
+
+• Adicionada nova funcionalidade que possibilita enviar avisos aos usuários por meio do QAPP. Os avisos podem ser enviados para a página inicial ou ao acessar Cards específicos.
+
 #### [Versão 2.1.4] – 27/08/2025
 O QApp continua melhorando com o foco no compromisso da PMMG com a inovação e eficiência operacional.
 
