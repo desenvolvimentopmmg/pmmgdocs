@@ -3,6 +3,25 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.3.0] – 13/11/2025  
+
+#### Hélios  
+• Melhorias nas notificações do Hélios com ajustes nos serviços de notificações e controles de envio das notificações  
+
+• Melhoria na visualização dos cards  
+
+• Nova opção para pesquisa na lista dos cards  
+
+• Opção para acionar a configuração das notificações a partir do Hélios  
+
+#### Configuração das Notificações  
+• Novo layout para o botão salvar na tela de Configuração de Notificações  
+
+#### Evento Destaque  
+• Nova opção para pesquisa na lista dos cards  
+
+• Opção para acionar a configuração das notificações a partir do Evento Destaque  
+
 #### [Versão 2.2.1] - 13/10/2025 
 O QApp continua evoluindo e trazendo novidades para melhorar a eficiência operacional da PMMG.
 
