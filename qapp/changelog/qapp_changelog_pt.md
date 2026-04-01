@@ -28,8 +28,6 @@ como o módulo de Abordagem, que será disponibilizado em próximas versões.
 
 ##### Pesquisa Avançada
 
-A funcionalidade de "Pesquisa Avançada", integrada à Pesquisa Unificada, também foi significativamente evoluída. A partir desta versão, a pesquisa passa a ser organizada em abas específicas — Pessoas e Veículos — proporcionando uma navegação mais intuitiva, segmentada e eficiente.
-
 A funcionalidade de “Pesquisa Avançada”, integrada à Pesquisa Unificada,
 também foi significativamente evoluída. A partir desta versão, a pesquisa passa a
 ser organizada em abas específicas — Pessoas e Veículos — proporcionando uma
