@@ -32,6 +32,7 @@ A funcionalidade de “Pesquisa Avançada”, integrada à Pesquisa Unificada,
 também foi significativamente evoluída. A partir desta versão, a pesquisa passa a
 ser organizada em abas específicas — Pessoas e Veículos — proporcionando uma
 navegação mais intuitiva, segmentada e eficiente.
+
 Além da melhoria na usabilidade, foram incorporadas novas possibilidades de
 consulta que ampliam o poder investigativo do militar. Destaca-se a capacidade de
 realizar buscas por placas de veículos utilizando caracteres curinga (?),
@@ -39,6 +40,7 @@ permitindo a substituição de até dois caracteres desconhecidos. Essa
 funcionalidade é especialmente útil em cenários onde a informação está
 incompleta, aumentando significativamente as chances de sucesso na
 identificação e localização de registros.
+
 Com essas evoluções, a Pesquisa Avançada torna-se uma ferramenta ainda mais
 estratégica, oferecendo maior flexibilidade, agilidade e precisão nas consultas
 realizadas em campo.
@@ -47,6 +49,7 @@ realizadas em campo.
 
 Foi disponibilizado o novo card “Comandante Geral”, que permite o envio de
 comunicações institucionais diretamente para o QAPP.
+
 Agora, as mensagens publicadas na Intranet passam a ser automaticamente
 disponibilizadas no aplicativo, garantindo que os militares recebam informações
 em tempo real, com acesso facilitado ao histórico das comunicações mais
