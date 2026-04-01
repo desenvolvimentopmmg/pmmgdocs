@@ -3,6 +3,78 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.4.6] - 01/04/2026
+
+##### Evolução da Pesquisa Unificada e Exclusão do Card "Envolvidos"
+
+Nesta versão, o QAPP foi aprimorado com a evolução da Pesquisa Unificada, que
+passa a incorporar integralmente as funcionalidades anteriormente disponíveis no
+card “Envolvidos”, o qual foi descontinuado.
+
+
+O objetivo dessa mudança é proporcionar uma experiência mais ágil, centralizada
+e eficiente para o militar em campo. Agora, em um único ponto de acesso, será
+possível:
+
+
+- Realizar pesquisas de pessoas e veículos
+- Visualizar e incluir fotos
+- Visualizar e registrar observações vinculadas aos indivíduos e veículos
+
+Essa evolução foi viabilizada pela integração com a nova fonte de dados
+“DATAHUB”, que amplia a confiabilidade e a assertividade na identificação das
+informações. Essa base também prepara o sistema para futuras funcionalidades,
+como o módulo de Abordagem, que será disponibilizado em próximas versões.
+
+##### Pesquisa Avançada
+
+A funcionalidade de "Pesquisa Avançada", integrada à Pesquisa Unificada, também foi significativamente evoluída. A partir desta versão, a pesquisa passa a ser organizada em abas específicas — Pessoas e Veículos — proporcionando uma navegação mais intuitiva, segmentada e eficiente.
+
+A funcionalidade de “Pesquisa Avançada”, integrada à Pesquisa Unificada,
+também foi significativamente evoluída. A partir desta versão, a pesquisa passa a
+ser organizada em abas específicas — Pessoas e Veículos — proporcionando uma
+navegação mais intuitiva, segmentada e eficiente.
+Além da melhoria na usabilidade, foram incorporadas novas possibilidades de
+consulta que ampliam o poder investigativo do militar. Destaca-se a capacidade de
+realizar buscas por placas de veículos utilizando caracteres curinga (?),
+permitindo a substituição de até dois caracteres desconhecidos. Essa
+funcionalidade é especialmente útil em cenários onde a informação está
+incompleta, aumentando significativamente as chances de sucesso na
+identificação e localização de registros.
+Com essas evoluções, a Pesquisa Avançada torna-se uma ferramenta ainda mais
+estratégica, oferecendo maior flexibilidade, agilidade e precisão nas consultas
+realizadas em campo.
+
+##### Novo Card: Comandante Geral
+
+Foi disponibilizado o novo card “Comandante Geral”, que permite o envio de
+comunicações institucionais diretamente para o QAPP.
+Agora, as mensagens publicadas na Intranet passam a ser automaticamente
+disponibilizadas no aplicativo, garantindo que os militares recebam informações
+em tempo real, com acesso facilitado ao histórico das comunicações mais
+recentes.
+
+
+##### Novo Card: Mapa Rádio
+
+Incluído o card “Mapa Rádio”, que possibilita a consulta rápida de informações
+operacionais por município, incluindo:
+
+- Zona
+- Canal de rádio correspondente
+
+Essa funcionalidade visa apoiar a atuação em campo, facilitando o acesso a dados
+essenciais de comunicação.
+
+##### Melhorias Gerais e Correções
+
+Esta versão também contempla:
+
+- Correções de inconsistências identificadas em versões anteriores
+- Atualização de bibliotecas e componentes internos
+- Melhorias de desempenho e estabilidade
+- Ajustes de usabilidade, proporcionando uma navegação mais fluida e intuitiva
+
 #### [Versão 2.3.0] – 13/11/2025  
 
 #### Hélios  
