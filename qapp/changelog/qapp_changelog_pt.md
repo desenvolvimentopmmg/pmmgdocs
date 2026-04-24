@@ -5,7 +5,7 @@ Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
 #### [Versão 2.4.7] - 22/04/2026
 
-##### Diárias – Novidades
+##### Novo Card: Diligências
 - Check-in, check-out e registro das diligências pelo QApp com geolocalização
 - Registro direto no app, sem necessidade de lançamento posterior
 - Geração automática do Relatório eletrônico de viagem
