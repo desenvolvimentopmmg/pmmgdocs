@@ -3,6 +3,13 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.4.7] - 22/04/2026
+
+##### Diárias – Novidades
+- Check-in, check-out e registro das diligências pelo QApp com geolocalização
+- Registro direto no app, sem necessidade de lançamento posterior
+- Geração automática do Relatório eletrônico de viagem
+
 #### [Versão 2.4.6] - 01/04/2026
 
 ##### Evolução da Pesquisa Unificada e Exclusão do Card "Envolvidos"
@@ -11,11 +18,9 @@ Nesta versão, o QAPP foi aprimorado com a evolução da Pesquisa Unificada, que
 passa a incorporar integralmente as funcionalidades anteriormente disponíveis no
 card “Envolvidos”, o qual foi descontinuado.
 
-
 O objetivo dessa mudança é proporcionar uma experiência mais ágil, centralizada
 e eficiente para o militar em campo. Agora, em um único ponto de acesso, será
 possível:
-
 
 - Realizar pesquisas de pessoas e veículos
 - Visualizar e incluir fotos
