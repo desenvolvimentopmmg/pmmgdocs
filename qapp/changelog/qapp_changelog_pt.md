@@ -3,6 +3,12 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.4.20] - 04/05/2026
+
+- Atualização técnica para garantir compatibilidade com as versões mais recentes dos sistemas operacionais Android e iOS
+- Aprimoramento dos mecanismos de segurança e do processo de atualização do aplicativo
+- Correções de falhas identificadas, visando maior estabilidade e desempenho
+
 #### [Versão 2.4.7] - 22/04/2026
 
 ##### Novo Card: Minhas diligências
