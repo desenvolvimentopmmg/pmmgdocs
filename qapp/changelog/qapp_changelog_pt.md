@@ -3,6 +3,11 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.4.26] - 19/05/2026
+
+- Evoluções no webview para apoio às evoluções do SIGOp
+- Correções de falhas identificadas, visando maior estabilidade e desempenho
+
 #### [Versão 2.4.25] - 11/05/2026
 
 - Atualização do ícone do aplicativo
