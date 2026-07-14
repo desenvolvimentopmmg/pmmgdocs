@@ -3,6 +3,26 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.5.5] – 14/07/2026
+
+##### Novo Card: Abordagens
+- Nova funcionalidade para registro de abordagens de policiais integrada à pesquisa unificada.
+
+##### Pesquisa Unificada
+Agora será possível consultar e também cadastrar mais dados para os indivíduos e veículos. São eles:
+
+• Alcunha (apelidos)
+
+• Telefones
+
+• Endereços
+
+- Melhoria na funcionalidade de fotos dos indivíduos e veículo para que seja mais eficiente e rápida o cadastro e consulta
+
+- As abordagens realizadas para os indivíduos e veículos poderão ser consultadas a partir da pesquisa unificada.
+
+- Novas opções para a pesquisa avançada: telefone e alcunha.
+
 #### [Versão 2.4.26] - 19/05/2026
 
 - Evoluções no webview para apoio às evoluções do SIGOp
