@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "permissions_set": [
 	{
 		"key": "fr_test",
@@ -112,6 +112,8 @@
 		"key": "dev_approaches",
 		"description": null,
 		"users": [
+			"0976803",
+			"1062843",
 			"1804848",
 			"1305820",
 			"1368893",
