@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "permissions_set": [
 	{
 		"key": "fr_test",
@@ -82,6 +82,21 @@
 	},
 	{
 		"key": "dev_qapp",
+		"description": null,
+		"users": [
+			"c929629",
+			"c927147",
+			"c900710",
+			"c900139",
+			"c930383",
+			"c901432",
+			"c930113",
+			"c929614",
+			"c929830"
+		]
+	},
+	  {
+		"key": "can_toggle_screenshots",
 		"description": null,
 		"users": [
 			"c929629",
