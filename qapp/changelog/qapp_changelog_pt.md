@@ -12,10 +12,10 @@ Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 A abordagem policial é um procedimento legal das forças de segurança pública que consiste na aproximação de um cidadão ou veículo para verificar uma situação, fiscalizar e garantir a segurança. Realizada sob o princípio da "fundada suspeita", ela permite a revista pessoal e de veículos quando há indícios de crime, visando a prevenção e apuração de atividades ilegais. Durante a abordagem, os policiais podem questionar, revistar e coletar informações, sempre respeitando os direitos e garantias fundamentais do cidadão, como o de não ser tratado de forma abusiva ou de não se autoincriminar.
 
 - Principais funcionalidades
-- Inclusão de novas abordagens a partir da seleção de indivíduos e pessoas na pesquisa unificada.
-- Opção para selecionar as fotos dos indivíduos e veículos envolvidas na abordagem
-- Opção de pesquisa simplificada e avançada das abordagens realizadas
-- Principais informações da abordagem: localização, abordados, fundada suspeita e informações obtidas
+  - Inclusão de novas abordagens a partir da seleção de indivíduos e pessoas na pesquisa unificada.
+  - Opção para selecionar as fotos dos indivíduos e veículos envolvidas na abordagem.
+  - Opção de pesquisa simplificada e avançada das abordagens realizadas.
+  - Principais informações da abordagem: localização, abordados, fundada suspeita e informações obtidas.
 
 ##### Pesquisa Unificada
 
@@ -32,18 +32,13 @@ A abordagem policial é um procedimento legal das forças de segurança pública
 - Nova funcionalidade para registro de abordagens de policiais integrada à pesquisa unificada.
 
 ##### Pesquisa Unificada
-Agora será possível consultar e também cadastrar mais dados para os indivíduos e veículos. São eles:
-
-• Alcunha (apelidos)
-
-• Telefones
-
-• Endereços
-
-- Melhoria na funcionalidade de fotos dos indivíduos e veículo para que seja mais eficiente e rápida o cadastro e consulta
-
+- Agora será possível consultar e também cadastrar mais dados para os indivíduos e veículos. São eles:  
+  - Alcunha (apelidos)
+  - Telefones
+  - Endereços
+  
+- Melhoria na funcionalidade de fotos dos indivíduos e veículo para que seja mais eficiente e rápida o cadastro e consulta.
 - As abordagens realizadas para os indivíduos e veículos poderão ser consultadas a partir da pesquisa unificada.
-
 - Novas opções para a pesquisa avançada: telefone e alcunha.
 
 #### [Versão 2.4.26] - 19/05/2026
