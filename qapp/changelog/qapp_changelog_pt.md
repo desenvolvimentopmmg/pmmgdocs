@@ -3,6 +3,29 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+#### [Versão 2.6.2] – 04/11/2026
+
+##### Liberação do card Abordagens 
+
+- Nova funcionalidade para registro de abordagens de policiais integrada à pesquisa unificada.
+
+A abordagem policial é um procedimento legal das forças de segurança pública que consiste na aproximação de um cidadão ou veículo para verificar uma situação, fiscalizar e garantir a segurança. Realizada sob o princípio da "fundada suspeita", ela permite a revista pessoal e de veículos quando há indícios de crime, visando a prevenção e apuração de atividades ilegais. Durante a abordagem, os policiais podem questionar, revistar e coletar informações, sempre respeitando os direitos e garantias fundamentais do cidadão, como o de não ser tratado de forma abusiva ou de não se autoincriminar.
+
+- Principais funcionalidades
+- Inclusão de novas abordagens a partir da seleção de indivíduos e pessoas na pesquisa unificada.
+- Opção para selecionar as fotos dos indivíduos e veículos envolvidas na abordagem
+- Opção de pesquisa simplificada e avançada das abordagens realizadas
+- Principais informações da abordagem: localização, abordados, fundada suspeita e informações obtidas
+
+##### Pesquisa Unificada
+
+- Medida Protetiva: As medidas protetivas serão listadas nas consultas dos indivíduos quando este for um autor ou vítima.
+- E-mail: será possível consultar e também cadastrar os E-mails junto com a listagem de alcunhas.
+
+##### Novas medidas de segurança
+- Não será possível realizar captura de telas do QApp
+- As fotos na pesquisa unificada passarão a ter marca d’água com a matricula do usuário logado.
+
 #### [Versão 2.5.5] – 14/07/2026
 
 ##### Novo Card: Abordagens
