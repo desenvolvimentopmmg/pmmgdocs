@@ -3,6 +3,14 @@
 
 Todas as mudanças notáveis do projeto QApp serão documentadas abaixo.
 
+[Versão 2.6.7] – 13/11/2026
+
+##### Ajuste das medidas de segurança
+-	Adoção de marca d’água em todo QApp para permitir a captura de telas.
+
+##### Pesquisa Unificada
+-	Nova forma de acionar a pesquisa avançada ao iniciar a digitação na barra de pesquisa
+
 #### [Versão 2.6.2] – 04/11/2026
 
 ##### Liberação do card Abordagens 
